@@ -1,0 +1,2 @@
+# docker_wls_admin_mgmt_image
+docker_wls_admin_mgmt_image
