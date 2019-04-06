@@ -1,5 +1,6 @@
 FROM playniuniu/oracle-server-jre:8
 LABEL maintainer="suyog.v.chinche@oracle.com"
+#author Suyog Chinche
 
 ENV FMW_PKG=fmw_12.2.1.2.0_wls_quick_Disk1_1of1.zip \
     FMW_JAR=fmw_12.2.1.2.0_wls_quick.jar \
