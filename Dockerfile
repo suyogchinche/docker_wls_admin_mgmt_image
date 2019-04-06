@@ -58,5 +58,4 @@ RUN wlst.sh -skipWLSModuleScanning /home/oracle/bin/create-domain.py \
 # Expose Node Manager default port, and also default for admin and managed server
 EXPOSE ${ADMIN_PORT} ${MS_PORT}
 
-
 CMD ["startWebLogic.sh"]
